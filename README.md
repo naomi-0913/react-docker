@@ -14,7 +14,7 @@ docker-compose build
 
 4. モジュールインストール
 ```
-docker-compose run --rm react_node_service sh -c “cd react-sample && nom install”
+docker-compose run --rm react_node_service sh -c "cd react-sample && npm install"
 ```
 
 5. コンテナ起動
