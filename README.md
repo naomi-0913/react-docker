@@ -2,7 +2,7 @@
 
 1. git clone
 ```
-git clone　
+git clone https://github.com/naomi-0913/react-docker.git
 ```
 
 2. 該当ディレクトリに移動
